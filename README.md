@@ -34,6 +34,12 @@ or simply include it in your HTML:
 <script src="anim_panel.js"></script>
 ```
 
+or include it via CDN:
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/seethru@3/dist/seeThru.min.js"></script>
+```
+
 ## Use
 
 ```js
